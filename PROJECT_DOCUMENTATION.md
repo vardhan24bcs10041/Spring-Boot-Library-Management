@@ -68,4 +68,4 @@ This query ensures that only authors with at least one book are retrieved, demon
 4. Access H2 Console at: `http://localhost:8080/h2-console` (Username: `sa`, Password: [empty])
 
 ---
-**GitHub URL**: [User to insert their URL here]
+**GitHub URL**: [https://github.com/vardhan24bcs10041/Spring-Boot-Library-Management](https://github.com/vardhan24bcs10041/Spring-Boot-Library-Management)
